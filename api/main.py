@@ -8,7 +8,7 @@ DB_CONFIG = {
     "dbname": "vorlesung",
     "user": "vorlesung",
     "password": "geheim",
-    "host": "postgres",   # container name as hostname
+    "host": "postgres",
     "port": 5432,
 }
 
